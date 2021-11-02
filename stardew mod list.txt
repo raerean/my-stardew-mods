@@ -1,0 +1,217 @@
+General layout:
+mod name
+what it does
+link
+
+automate
+automates machines linked with chests	
+
+Seasonal Cute Characters
+visual only
+	
+Elle's Horse Replacements
+visual only
+	
+more grass
+visual only
+https://www.nexusmods.com/stardewvalley/mods/5398
+
+wildflower grass
+visual only
+https://www.nexusmods.com/stardewvalley/mods/5407
+
+elles seasonal buildings
+visual only
+https://www.nexusmods.com/stardewvalley/mods/1993
+
+rustic country town interior
+visual only
+https://www.nexusmods.com/stardewvalley/mods/6098
+
+seasonal floral bus
+visual only
+https://www.nexusmods.com/stardewvalley/mods/6717
+
+chic cute kitchen
+visual only
+https://www.nexusmods.com/stardewvalley/mods/1018
+
+rustic country walls and floors
+visual only
+https://www.nexusmods.com/stardewvalley/mods/5857
+
+to-dew list
+brings up a player-created to-do list
+https://www.nexusmods.com/stardewvalley/mods/7409
+
+community center helper
+adds popup to community center bundles to help plan gathering items
+https://www.nexusmods.com/stardewvalley/mods/6893
+
+better ranching
+adds speech-bubbles to animals that need attention
+https://www.nexusmods.com/stardewvalley/mods/859
+
+UI info suite
+displays customizable information
+https://www.nexusmods.com/stardewvalley/mods/1150
+
+vintage interface
+visual only
+https://www.nexusmods.com/stardewvalley/mods/1244
+
+custom menu background
+visual only
+https://www.nexusmods.com/stardewvalley/mods/7416
+
+generic mod config menu	
+configure visual mod options (horse colors, house colors etc)	
+https://www.nexusmods.com/stardewvalley/mods/5098
+
+character portrait overhauls	
+visual only	
+https://www.nexusmods.com/stardewvalley/mods/13
+
+hats wont mess up hair	
+visual only	
+https://www.nexusmods.com/stardewvalley/mods/2847
+
+elles new coup animals	
+visual only	
+https://www.nexusmods.com/stardewvalley/mods/3168
+
+elles new barn animals	
+visual only	
+https://www.nexusmods.com/stardewvalley/mods/3167
+
+elles town animals	
+visual only	
+https://www.nexusmods.com/stardewvalley/mods/1965
+
+elles dirt and cliff recolor	
+visual only	
+https://www.nexusmods.com/stardewvalley/mods/1966
+
+no more bowlegs	
+visual only	
+https://www.nexusmods.com/stardewvalley/mods/346
+
+seasonal  path and flooring	
+visual only	
+https://www.nexusmods.com/stardewvalley/mods/4852
+
+stardew foliage redone	
+visual only	
+https://www.nexusmods.com/stardewvalley/mods/4966
+
+animal crossing digspot replacer	
+visual only	
+https://www.nexusmods.com/stardewvalley/mods/18
+
+fish  pond replacer	
+visual only	
+https://www.nexusmods.com/stardewvalley/mods/5301
+
+pidgeon mailbox	
+visual only	
+https://www.nexusmods.com/stardewvalley/mods/4785
+
+grandpa's  tools	
+visual only	
+https://www.nexusmods.com/stardewvalley/mods/8835
+
+gwens medieval craftables	
+visual only	
+https://www.nexusmods.com/stardewvalley/mods/5513
+
+shipping chest retexture	
+visual only	
+https://www.nexusmods.com/stardewvalley/mods/5512
+
+statues as obelisks	
+visual only	
+https://www.nexusmods.com/stardewvalley/mods/4941
+
+spouse room redesign	
+visual only	
+https://www.nexusmods.com/stardewvalley/mods/1550
+
+cleaner barns and coops	
+visual only	
+https://www.nexusmods.com/stardewvalley/mods/926
+
+gold clock sundial	
+visual only	
+https://www.nexusmods.com/stardewvalley/mods/7863
+
+clean stable	
+visual only	
+https://www.nexusmods.com/stardewvalley/mods/7397
+
+daisyniko's earthy recolor	
+visual only	
+https://www.nexusmods.com/stardewvalley/mods/5255
+
+way back pelican town	
+visual only	
+https://www.nexusmods.com/stardewvalley/mods/7332
+
+better resources	
+visual only	
+https://www.nexusmods.com/stardewvalley/mods/6942
+
+better fishing and beach foraging	
+visual only	
+https://www.nexusmods.com/stardewvalley/mods/6915
+
+getter gems and minerals	
+visual only	
+https://www.nexusmods.com/stardewvalley/mods/5443
+
+better artisan goods	
+visual only	
+https://www.nexusmods.com/stardewvalley/mods/5394
+
+better crops and foraging	
+visual only	
+https://www.nexusmods.com/stardewvalley/mods/5394
+
+victorian craftables	
+visual only	
+https://www.nexusmods.com/stardewvalley/mods/6797
+
+k10_ftw's woods wainscotting walls and floors	
+visual only	
+https://www.nexusmods.com/stardewvalley/mods/9869
+
+better signs	
+stops accidental sign overwriting	
+https://www.nexusmods.com/stardewvalley/mods/7482
+
+no transistions	
+removes the fade-to-black between areas	
+https://www.nexusmods.com/stardewvalley/mods/7354
+
+mason jars	
+visual only	
+https://www.nexusmods.com/stardewvalley/mods/7928
+
+farm cave mushies	
+visual only	
+https://www.nexusmods.com/stardewvalley/mods/7276
+
+Museum artifacts reimagined	
+visual only	
+https://www.nexusmods.com/stardewvalley/mods/9803
+
+Coii's girl sets pack	
+visual only	
+https://www.nexusmods.com/stardewvalley/mods/2872
+
+industrial furniture set
+visual only	
+https://www.nexusmods.com/stardewvalley/mods/5444
+
+industrial kitchen and interior set	
+visual only	
+https://www.nexusmods.com/stardewvalley/mods/5351
